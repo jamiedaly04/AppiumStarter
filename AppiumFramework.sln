@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppiumFramework", "AppiumFramework\AppiumFramework.csproj", "{C949C2A8-FF40-47B4-A95F-58B6AF139369}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupervisorMobileApp", "SupervisorMobileApp\SupervisorMobileApp.csproj", "{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileApp", "MobileApp\MobileApp.csproj", "{C2675C11-464C-4B86-B4AB-E4D3A38BED4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

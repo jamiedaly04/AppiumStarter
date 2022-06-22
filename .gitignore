@@ -5,3 +5,5 @@ SupervisorMobileApp/obj
 .vs/MSiteAppiumFramework/DesignTimeBuild
 .vs/MSiteAppiumFramework/FileContentIndex
 .vs
+MobileApp/bin/Debug
+MobileApp/obj
